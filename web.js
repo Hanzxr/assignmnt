@@ -1,1 +1,1 @@
-document.write("This is a JS code");
+document.write("isa kang hotdog🌭");
