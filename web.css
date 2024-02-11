@@ -1,6 +1,6 @@
 body {
   /* background-color: lightblue; */
 
-   background-image: url("../web/image.jpg"); 
+   background-image: "../web/image.jpg"; 
   background-size: cover;
 }
